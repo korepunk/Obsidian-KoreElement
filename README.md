@@ -1,2 +1,2 @@
 # Obsidian-KoreElement
-An dark theme for Obsidian 
+A dark theme for Obsidian 
